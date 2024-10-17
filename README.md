@@ -17,4 +17,4 @@ The following Stata `.do` files are available:
 ## Usage Instructions
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/merve215/Stata-Tutorials.git
