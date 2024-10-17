@@ -12,7 +12,6 @@ The following Stata `.do` files are available:
 - **`Instrumental Variable.do`**: Instrumental Variables (IV) regression – Implementing IV techniques and 2SLS (Two-Stage Least Squares).
 - **`Panel Data Regressions.do`**: Panel Data Analysis – Exploring fixed effects, random effects, and dynamic panel models.
 
-(Add more `.do` files as you upload them...)
 
 ## Usage Instructions
 1. Clone or download the repository:
