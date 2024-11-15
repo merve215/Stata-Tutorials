@@ -11,6 +11,7 @@ The following Stata `.do` files are available:
 - **`Randomized Control Trials.do`**: Randomized Control Trials (RCTs) – Analysis of experimental data and treatment effects.
 - **`Instrumental Variable.do`**: Instrumental Variables (IV) regression – Implementing IV techniques and 2SLS (Two-Stage Least Squares).
 - **`Panel Data Regressions.do`**: Panel Data Analysis – Exploring fixed effects, random effects, and dynamic panel models.
+- **`Difference-in-Difference Estimation.do`**: Difference-in-Difference Estimation
 
 
 ## Usage Instructions
